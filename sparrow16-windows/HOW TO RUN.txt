@@ -1,0 +1,8 @@
+Sparrow16 - SNES emulator (Windows, 64-bit)
+
+1. Aabn Kommandoprompt eller PowerShell i denne mappe.
+2. Koer:   sparrow16.exe "C:\sti\til\dit\spil.sfc"
+
+Du skal selv skaffe en lovlig ROM-fil. Der foelger ingen spil med.
+Tryk Esc for at lukke. Taster: piletaster, X=A, Z=B, S=X, A=Y, Q/W=L/R, Enter=Start, hoejre Shift=Select.
+Status: CPU'en er faerdig, men der tegnes endnu kun baggrundsfarven (billedet kommer naeste skridt).

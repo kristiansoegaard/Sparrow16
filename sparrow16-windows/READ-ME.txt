@@ -1,0 +1,11 @@
+Sparrow16 - SNES emulator (Windows, 64-bit)
+
+Sadan starter du den:
+  - Dobbeltklik paa sparrow16.exe og vaelg din ROM-fil (.sfc eller .smc), ELLER
+  - traek ROM-filen hen paa sparrow16.exe.
+
+Du skal selv skaffe en lovlig ROM-fil. Der foelger ingen spil med.
+SDL2.dll skal ligge i samme mappe som exe-filen.
+
+Taster: piletaster, X=A, Z=B, S=X, A=Y, Q/W=L/R, Enter=Start, hoejre Shift=Select, Esc=luk.
+Status: CPU'en er faerdig, men der tegnes endnu kun baggrundsfarven.
